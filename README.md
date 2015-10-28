@@ -1,4 +1,4 @@
-A demonstration of a "super privileged container" that allows you to bind mount into a running orginary container from a privileged container. 
+A demonstration of a "super privileged container" that allows you to bind mount into a running ordinary container from a privileged container. 
 
 Look at `doBindMount` in `volume.py`
 
